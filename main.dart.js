@@ -61897,7 +61897,7 @@ return B.b.u(s,this.b)},
 $S:0}
 A.a5r.prototype={}
 A.Ds.prototype={
-P(a){return new A.tn(B.E6,"Smar Physics",A.afT(null,B.b7,null),null)}}
+P(a){return new A.tn(B.E6,"Smart Physics",A.afT(null,B.b7,null),null)}}
 A.u5.prototype={
 ah(){return new A.Jj(B.k)}}
 A.Jj.prototype={
