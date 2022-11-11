@@ -27,7 +27,7 @@ const RESOURCES = {
 "img/logo.jpeg": "14558da02651f805ab4711e9af893a63",
 "index.html": "4ab4c3a13fb3bf13c7eb0cea0ec7cdaf",
 "/": "4ab4c3a13fb3bf13c7eb0cea0ec7cdaf",
-"main.dart.js": "ec91fbbdb45713388a4633f5d393a896",
+"main.dart.js": "053cb8a6258dd17106d86939779160b3",
 "manifest.json": "be598c3b9836f117c0490a3485c26a74",
 "style.css": "b536a4baa886de9679149b653bdaebf5",
 "version.json": "7363f0d230a11c63e2795ae24c9d48e6"
